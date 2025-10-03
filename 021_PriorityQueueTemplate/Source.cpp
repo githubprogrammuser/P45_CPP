@@ -477,6 +477,7 @@ int main() {
     q.push(priority_item<string>("Jack", 1));
     q.push(priority_item<string>("Ron", 4));
     q.push(priority_item<string>("Bob", 5));
+    q.push(priority_item<string>("larry", 6));
 
     q.print();
 
